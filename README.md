@@ -10,20 +10,18 @@
 
     <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> → <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>I</kbd>
 
-    File to use: [`chrome--new-email--devtools`](https://raw.githubusercontent.com/raisedadead/karabiner-elements-complex-modifications/main/chrome--new-email--devtools.json)
+    Usage:
+    
+    ```
+    karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/raisedadead/karabiner-elements-complex-modifications/main/chrome--new-email--devtools.json
+    ```
 
-2. ...
+2. ...tbd
 
 ### Usage:
 
-1. Open a new tab in your browser with the URL:
-
-    `karabiner://karabiner/assets/complex_modifications/import?url=REPLACE_URL_TO_JSON_FILE`
-
-    Replace `REPLACE_URL_TO_JSON_FILE` with the URL to the JSON file, you can right-click and copy link to file from the available options.
-
+1. Open a new tab in your browser with the URL for available modifications.
 2. Follow the prompts to import the rules to Karabiner-Elements.
-
 
 ### License:
 
